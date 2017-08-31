@@ -1,0 +1,62 @@
+body{
+	margin: 15px;
+	background-image: url(../img/fondo1.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.borderbutton
+{
+	border-bottom: 1px solid black;
+}
+
+.platosfav
+{
+	border: 1px solid black;
+	margin: 5px;
+}
+
+.articulosimg
+{
+	border: 5px solid #FECC55;
+}
+
+small
+{
+	color: #FECC55!important;
+	}
+
+.colorbuscador
+{
+	background-color: #FECC55;
+}
+
+.primary
+{
+	background-color: white!important;
+}
+
+.callout
+{
+	opacity: 1!important;
+	border-radius: 10px!important;
+}
+
+.secondary
+{
+	opacity: 0.9!important;
+}
+
+.comentario
+{
+	background-color: #1779BA;
+	border-radius: 30px;
+	margin: 5px;
+}
+.comentario2
+{
+	background-color: #1779BA;
+	border-radius: 30px;
+	margin: 5px;
+}

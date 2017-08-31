@@ -1,0 +1,77 @@
+/* CSS Document */
+body
+{
+	background-color: #006495;
+	font-family: 'Raleway', sans-serif;
+}
+.redsocial
+{
+	width: 32px;
+	margin: 5px;
+	float: right;
+}
+.menu
+{
+	background-color: #FFFFFF;
+}
+
+h1
+{
+	margin: 5px;
+}
+
+.filapadding
+{
+	padding: 20px;
+}
+
+@media(max-width:768px)
+{
+	header
+	{ 
+		text-align: center;
+	}
+	
+	.redsocial
+	{
+		text-align: center;
+		width: 32px;
+		margin: 5px;
+		float: none;
+	}
+}
+
+.marginboton
+{
+	margin-top: 3px;
+	}
+
+nav
+{
+	border-radius: 0px!important;
+}
+
+form
+{
+	height: 60px;
+}
+textarea
+{
+	width: 100%;
+}
+
+.fondobuscador
+{
+	text-align: center;
+	background-color: #9A8B41;
+}
+.list-group-item:hover
+{
+	background-color: #EB686A;
+	text-align: right;
+	}
+
+.marginboton3
+{
+	margin-top: 50px;
+}
